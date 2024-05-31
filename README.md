@@ -1,16 +1,43 @@
-## Hi there 👋
+interface dataTypes {
+    biodata: {
+      firstname: string;
+      lastname: string;
+      email: string;
+      desc: string;
+    };
+    sosial: {
+      github: string;
+      instagram: string;
+      twitter: string;
+    };
+    skills: {
+      frontend: string[];
+      backend: string[];
+      devtools: string[];
+    };
+  }
 
-<!--
-**Mufid-031/Mufid-031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  const data: dataTypes = {
+    biodata: {
+      firstname: "Ahmad",
+      lastname: "Mufid Risqi",
+      email: "risqimufid50@gmail.com",
+      desc: "Saya adalah mahasiswa teknik informatika di universitas trunojoyo madura",
+    },
+    sosial: {
+      github: "https://github.com/Mufid-031",
+      instagram: "https://www.instagram.com/damslette3",
+      twitter: "https://x.com/MufidRisqi30683",
+    },
+    skills: {
+      frontend: ["HTML", "CSS", "Javascript", "Typescript", "React", "Next.js", "Tailwind CSS"],
+      backend: ["Node.js"],
+      devtools: ["Git", "Github"],
+    },
+  };
 
-Here are some ideas to get you started:
+  const main: (data: dataTypes) => void = (data: dataTypes) => {
+    console.log(data);
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  main(data);
