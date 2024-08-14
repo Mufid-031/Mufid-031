@@ -31,8 +31,8 @@
           twitter: "https://x.com/MufidRisqi30683",
         },
         skills: {
-          frontend: ["HTML", "CSS", "Javascript", "Typescript", "React", "Next.js", "Tailwind CSS"],
-          backend: ["Node.js"],
+          frontend: ["HTML", "CSS", "Javascript", "Typescript", "React", "Next.js","Vue", "Nuxt.js", "Tailwind CSS", "Bootstrap"],
+          backend: ["Python", "Node.js", "Express"],
           devtools: ["Git", "Github"],
         },
       };
