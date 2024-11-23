@@ -29,6 +29,10 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufid-031&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+
+<div align="center">
+  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/754215172905762837' width="380" height="190" />
+</div>
     
 ### Contact
 
