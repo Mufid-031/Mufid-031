@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ahmad+Mufid+Risqi.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" style="display: flex">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,vue,nuxtjs,tailwind,nestjs,prisma,redis,mysql,mongodb,firebase" />
   </a>
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 </div><br>
 
 ### GitHub Stats
