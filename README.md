@@ -23,6 +23,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=git" />
 </div><br>
 
 ### GitHub Stats
