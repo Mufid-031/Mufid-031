@@ -9,10 +9,12 @@
     <img src="https://skillicons.dev/icons?i=dart" />
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=bun" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=vue" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=express" />
     <img src="https://skillicons.dev/icons?i=nestjs" />
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=laravel" />
