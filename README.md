@@ -2,6 +2,7 @@
 
 ### Technologies and tools:
 
+
 <div style="display: inline_block"><br>
     <img src="https://skillicons.dev/icons?i=typescript" />
     <img src="https://skillicons.dev/icons?i=javascript" />
