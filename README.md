@@ -33,8 +33,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Mufid-031">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Mufid-031&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufid-031&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Mufid-031&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufid-031&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
 
