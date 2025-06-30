@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=supabase" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=git" />
 </div><br>
