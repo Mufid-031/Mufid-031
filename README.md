@@ -18,6 +18,7 @@
     <img src="https://skillicons.dev/icons?i=nestjs" />
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=laravel" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
     <img src="https://skillicons.dev/icons?i=prisma" />
     <img src="https://skillicons.dev/icons?i=redis" />
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -27,7 +28,9 @@
     <img src="https://skillicons.dev/icons?i=supabase" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=vite" />
 </div><br>
 
 ### GitHub Stats
