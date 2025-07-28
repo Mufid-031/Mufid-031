@@ -12,13 +12,12 @@
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,threejs" />
   <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,express,nestjs,laravel" />
+  <img src="https://skillicons.dev/icons?i=tailwind,express,nestjs,laravel,prisma,redis" />
   <br />
-  <img src="https://skillicons.dev/icons?i=prisma,redis,mysql,postgresql,mongodb,firebase,supabase" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
   <img src="https://skills.syvixor.com/api/icons?i=drizzle,neon" />
   <br />
-  <img src="https://skillicons.dev/icons?i=docker,postman,git,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=supabase,docker,postman,git,figma,vite" />
 </div>
 
 ---
