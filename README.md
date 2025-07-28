@@ -20,12 +20,14 @@
     <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=threejs" />
     <img src="https://skillicons.dev/icons?i=prisma" />
+    <img src="https://skills.syvixor.com/api/icons?i=drizzle" />
     <img src="https://skillicons.dev/icons?i=redis" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=postgresql" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=supabase" />
+    <img src="https://skills.syvixor.com/api/icons?i=neon" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=postman" />
