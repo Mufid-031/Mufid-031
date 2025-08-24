@@ -17,6 +17,8 @@
   <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,firebase,drizzle,neon" />
   <br />
   <img src="https://skills.syvixor.com/api/icons?i=supabase,docker,postman,git,figma,vite" />
+  <br />
+  <img src="https://skills.syvixor.com/api/icons?i=unity,csharp" />
 </div>
 
 ---
