@@ -8,17 +8,17 @@
 ## 🚀 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,dart,php,nodejs,bun" />
+  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,dart,php,nodejs,bun,npm" />
   <br />
-  <img src="https://skills.syvixor.com/api/icons?i=react,nextjs,vue,nuxtjs,flutter,threejs" />
+  <img src="https://skills.syvixor.com/api/icons?i=react,nextjs,vue,nuxtjs,flutter,threejs,graphql" />
   <br />
-  <img src="https://skills.syvixor.com/api/icons?i=tailwind,express,nestjs,laravel,prisma,redis" />
+  <img src="https://skills.syvixor.com/api/icons?i=bootstrap,tailwind,express,nestjs,laravel,prisma,redis" />
   <br />
-  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,firebase,drizzle,neon" />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,firebase,drizzle,neon,supabase" />
   <br />
-  <img src="https://skills.syvixor.com/api/icons?i=supabase,docker,postman,git,figma,vite" />
+  <img src="https://skills.syvixor.com/api/icons?i=notion,docker,postman,git,figma,vite,zustand" />
   <br />
-  <img src="https://skills.syvixor.com/api/icons?i=unity,csharp" />
+  <img src="https://skills.syvixor.com/api/icons?i=unity,csharp,html,css,jest,pinia,golang" />
 </div>
 
 ---
