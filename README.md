@@ -20,7 +20,7 @@
   <br />
   <img src="https://skills.syvixor.com/api/icons?i=unity,csharp,html,css,jest,pinia,golang" />
   <br />
-  <img src="https://skills.syvixor.com/api/icons?i=python" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,solidity" />
 </div>
 
 ---
