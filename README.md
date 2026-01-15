@@ -19,6 +19,8 @@
   <img src="https://skills.syvixor.com/api/icons?i=notion,docker,postman,git,figma,vite,zustand" />
   <br />
   <img src="https://skills.syvixor.com/api/icons?i=unity,csharp,html,css,jest,pinia,golang" />
+  <br />
+  <img src="https://skills.syvixor.com/api/icons?i=python" />
 </div>
 
 ---
