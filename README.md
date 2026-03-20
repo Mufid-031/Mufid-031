@@ -1,61 +1,80 @@
-<!-- Typing animation -->
+<!-- ===================== -->
+<!-- 🎮 RETRO HEADER -->
+<!-- ===================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ahmad+Mufid+Risqi.;Welcome+to+my+Github+profile!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Mufid+Risqi;Welcome+to+my+Pixel+World+%F0%9F%8E%AE;Fullstack+Developer+Mode+ON" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-6C63FF?style=for-the-badge&logo=ghost" />
+  <img src="https://img.shields.io/badge/MODE-CODING-4D9FFF?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mufid-031/Mufid-031/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mufid-031/Mufid-031/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mufid-031/Mufid-031/output/pacman-contribution-graph.svg">
-</picture>
+<!-- ===================== -->
+<!-- 🟣 PACMAN GRAPH -->
+<!-- ===================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mufid-031/Mufid-031/output/pacman-contribution-graph-dark.svg" />
+</p>
 
 ---
 
-## 🚀 Tech Stack & Tools
+<!-- ===================== -->
+<!-- 🚀 TECH STACK -->
+<!-- ===================== -->
 
-<div align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,dart,php,nodejs,bun,npm" />
-  <br />
-  <img src="https://skills.syvixor.com/api/icons?i=react,nextjs,vue,nuxtjs,flutter,threejs,graphql" />
-  <br />
-  <img src="https://skills.syvixor.com/api/icons?i=bootstrap,tailwind,express,nestjs,laravel,prisma,redis" />
-  <br />
-  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,firebase,drizzle,neon,supabase" />
-  <br />
-  <img src="https://skills.syvixor.com/api/icons?i=notion,docker,postman,git,figma,vite,zustand" />
-  <br />
-  <img src="https://skills.syvixor.com/api/icons?i=unity,csharp,html,css,jest,pinia,golang" />
-  <br />
-  <img src="https://skills.syvixor.com/api/icons?i=python,solidity" />
+## 🕹️ TECH STACK
+
+<div align="center"> 
+  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,dart,php,nodejs,bun,npm" /> <br /> 
+  <img src="https://skills.syvixor.com/api/icons?i=react,nextjs,vue,nuxtjs,flutter,threejs,graphql" /> <br /> 
+  <img src="https://skills.syvixor.com/api/icons?i=bootstrap,tailwind,express,nestjs,laravel,prisma,redis" /> <br /> 
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,firebase,drizzle,neon,supabase" /> <br /> 
+  <img src="https://skills.syvixor.com/api/icons?i=notion,docker,postman,git,figma,vite,zustand" /> <br /> 
+  <img src="https://skills.syvixor.com/api/icons?i=unity,csharp,html,css,jest,pinia,golang" /> <br /> 
+  <img src="https://skills.syvixor.com/api/icons?i=python,solidity" /> 
+</div>
+
+
+---
+
+<!-- ===================== -->
+<!-- 📊 STATS -->
+<!-- ===================== -->
+
+## 📊 PLAYER STATS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mufid-031&theme=midnight-purple&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufid-031&theme=midnight-purple&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== -->
+<!-- 🟢 LIVE STATUS -->
+<!-- ===================== -->
+
+## 🟢 LIVE STATUS
+
+<div align="center"> 
+  <img src="https://lanyard.cnrad.dev/api/754215172905762837" width="380" height="190" alt="Discord Status" /> 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== -->
+<!-- 📬 CONTACT -->
+<!-- ===================== -->
 
-<div align="center">
-  <a href="https://github.com/Mufid-031">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Mufid-031&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Mufid's GitHub stats" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufid-031&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</div>
+## 📡 CONTACT
 
----
-
-## 🟢 Live Activity
-
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/754215172905762837" width="380" height="190" alt="Discord Status" />
-</div>
-
----
-
-## 📬 Contact Me
-
-<div align="center">
+<p align="center">
   <a href="mailto:risqimufid50@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-ME-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
