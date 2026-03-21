@@ -1,5 +1,7 @@
+<!-- HEADER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Mufid+Risqi;Welcome+to+my+Pixel+World+%F0%9F%8E%AE;Fullstack+Developer+Mode+ON" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ahmad+Mufid+Risqi;Welcome+to+my+Pixel+World+%F0%9F%8E%AE;Fullstack+Developer+Mode+ON" />
 </p>
 
 <p align="center">
@@ -7,18 +9,14 @@
   <img src="https://img.shields.io/badge/MODE-CODING-4D9FFF?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/pacman.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/ghost.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/pacman.gif" width="50"/>
-</p>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align="right" width=50px height=50px alt="side_sticker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0NDFsbzJpaWQ3OGhlZWJ1ODYydXQycThyc2hlZHIwM2dhNW9zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut9IfYd8U1C0CNQi76/giphy.gif" />
 
+<!-- PLAYER PROFILE -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=false&width=500&lines=PLAYER+PROFILE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%91%BE+PLAYER+PROFILE+%F0%9F%91%BE" />
 </p>
 
 <p align="center">
@@ -32,8 +30,10 @@
 
 <img align="left" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmx3ZXFjM3FobzN1dG1mOGs0aDdhY2ZxcmxnYm5jcm9tbjlzcnFzeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pswcjOmDj4pIkUqikF/giphy.gif" />
 
+<!-- ACTIVITY MAP -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=false&width=500&lines=ACTIVITY+MAP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%97%BA%EF%B8%8F+ACTIVITY+MAP+%F0%9F%97%BA%EF%B8%8F" />
 </p>
 
 <p align="center">
@@ -42,8 +42,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- SKILL TREE -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FF00FF&center=true&vCenter=true&repeat=false&width=400&lines=SKILL+TREE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FF00FF&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%8C%B3+SKILL+TREE+%F0%9F%8C%B3" />
 </p>
 
 <p align="center">
@@ -55,8 +57,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- TECH STACK -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FF00FF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%8E%AE+TECH+STACK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FF00FF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%95%B9%EF%B8%8F+TECH+STACK+%F0%9F%95%B9%EF%B8%8F" />
 </p>
 
 <div align="center"> 
@@ -79,8 +83,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- PLAYER STATS -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FF00FF&center=true&vCenter=true&repeat=false&width=400&lines=SKILL+TREE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FF00FF&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%93%8A+PLAYER+STATS+%F0%9F%93%8A" />
 </p>
 
 <p align="center">
@@ -91,8 +97,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- LIVE STATUS -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=39FF14&center=true&vCenter=true&repeat=false&width=400&lines=LIVE+STATUS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=39FF14&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%93%8A+LIVE+STATUS+%F0%9F%93%8A" />
 </p>
 
 <div align="center"> 
@@ -101,8 +109,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- CONTACT -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFD700&center=true&vCenter=true&repeat=false&width=400&lines=CONTACT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFD700&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%93%A1+CONTACT+%F0%9F%93%A1" />
 </p>
 
 <p align="center">
