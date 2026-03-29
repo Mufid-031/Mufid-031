@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/LEVEL-999-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XP-9000+-4D9FFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ROLE-FULLSTACK-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mufid-031?label=FOLLOWERS&style=for-the-badge&color=6C63FF" />
+  <img src="https://komarev.com/ghpvc/?username=Mufid-031&label=PROFILE+VIEWS&style=for-the-badge&color=4D9FFF" />
 </p>
 
 <img align="right" width=50px height=50px alt="side_sticker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0NDFsbzJpaWQ3OGhlZWJ1ODYydXQycThyc2hlZHIwM2dhNW9zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut9IfYd8U1C0CNQi76/giphy.gif" />
@@ -94,10 +96,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=C77DFF&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%93%8A+PLAYER+STATS+%F0%9F%93%8A" />
 </p>
 
+<!-- ADVANCED STATS -->
 <p align="center">
-  <img align="right" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmx3ZXFjM3FobzN1dG1mOGs0aDdhY2ZxcmxnYm5jcm9tbjlzcnFzeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pswcjOmDj4pIkUqikF/giphy.gif" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mufid-031&theme=midnight-purple&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufid-031&theme=midnight-purple&layout=compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mufid-031&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mufid-031&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mufid-031&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mufid-031&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mufid-031&theme=tokyonight&utcOffset=7" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
