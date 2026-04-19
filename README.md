@@ -8,7 +8,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="silver-wolf-hsr.gif" width="100%" />
+  <img src="silver-wolf-999/silver-wolf-hsr.gif" width="100%" />
 </p>
 
 
@@ -122,6 +122,13 @@
 <div align="center"> 
   <img src="https://lanyard.cnrad.dev/api/754215172905762837" width="380" height="190" /> 
 </div>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<!-- GIF -->
+<p align="center">
+  <img src="silver-wolf-999/silver-wolf-lvl-999.gif" width="100%" />
+</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
