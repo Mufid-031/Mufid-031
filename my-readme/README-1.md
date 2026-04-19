@@ -9,7 +9,7 @@
 
 <!-- SILVER WOLF GIF -->
 <p align="center">
-  <img src="silver-wolf-999/silver-wolf-hsr.gif" width="100%" />
+  <img src="../silver-wolf-999/silver-wolf-hsr.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -204,7 +204,7 @@
 
 <!-- SILVER WOLF LVL 999 GIF -->
 <p align="center">
-  <img src="silver-wolf-999/silver-wolf-lvl-999.gif" width="100%" />
+  <img src="../silver-wolf-999/silver-wolf-lvl-999.gif" width="100%" />
 </p>
 
 <p align="center">
